@@ -1,0 +1,14 @@
+{
+  "name": "deanwilson-hiera_envvar",
+  "version": "1.0.0",
+  "author": "deanwilson",
+  "summary": "Hiera backend for looking up environment variables",
+  "license": "Apache-2.0",
+  "source": "https://github.com/deanwilson/hiera-envvar.git",
+  "project_page": "https://github.com/deanwilson/hiera-envvar",
+  "issues_url": "https://github.com/deanwilson/hiera-envvar/issues",
+  "description": "Hiera backend for looking up environment variables",
+  "dependencies": [
+
+  ]
+}
